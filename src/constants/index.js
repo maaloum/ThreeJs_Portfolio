@@ -126,14 +126,14 @@ import {
    
    const experiences = [
      {
-       title: "Content Creator",
-       company_name: "Guide with Mahuyar",
+       title: "Software dev",
+       company_name: "Pap Connecting, Nouakchout, Mauritania",
        icon: content,
        iconBg: "#383E56",
-       date: "March 2020 - August 2020",
+       date: "February 2019 - June 2022",
        points: [
-         "Work on a scholarship Program with a big team of youths who belong to different culture and backgrounds",
-         " worked as the facilitator for the Myanmar youth people in the 2019 Youth developing camp"
+         "Boosted team productivity and efficiency by 30% through effective team leadership and project management.",
+         " Developed high-quality software solutions, meeting project requirements and adhering to coding best practices."
        ],
      },
      {
@@ -150,16 +150,16 @@ import {
        ],
      },
      {
-       title: "business consultant",
-       company_name: "AlNA Beauty Products",
+       title: "Intern Web dev",
+       company_name: "General Treasury of the Kingdom, Rabat, Morocco",
        icon: tesla,
        iconBg: "#E6DEDD",
-       date: "May 2023 - Present",
+       date: "Jan 2017 -  Aug 2017",
        points: [
-         "Successfully created the business plan and designed an innovative product package for enhanced sales",
-         "Achieved successful connections with global investors and managers, facilitating valuable partnerships and collaborations",
-         "Successfully trained staff members in the areas of public speaking, sales, and business planning, leading to enhanced skills and increased performance",
-         "Successfully created engaging content and visually appealing graphic design for the product, leading to its enhanced appeal and market success.",
+        "Design and Develop a responsive Security Operations Efficiency dashboard",
+        "Designed and implemented a user-friendly interface for the dashboard, allowing security teams to easily monitor and manage security operations.",
+        "Collaborated with the security operations team to gather requirements and understand their specific needs for the dashboard",
+
        ],
      },
      {
