@@ -40,15 +40,14 @@ const About = () => {
   return (
     <>
       <motion.div variants={textVariant()} >
-        <p className={styles.sectionSubText}>Introduction</p>
-        <h2 className={styles.sectionHeadText}>Overview.</h2>
+        <h2 className={styles.sectionHeadText}>About me</h2>
       </motion.div>
 
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I am a skilled software developer with experience in  JavaScript, and Ruby, and expertise in frameworks like React, Next.js, Ruby on Rails, and Three.js. I'm a quick learner and collaborate closely with clients to create efficient, scalable, and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life!
+      I am a full Stack Developer with a passion for building beautiful and user-friendly websites. I have a strong understanding of both back-end and front-end developement. I am excited to put my skills to use in a professional setting. I am a quick learner and a team player. I am confident that I can be a valuable asset to your company.
       </motion.p>
 
       <a href={cvFile} download>

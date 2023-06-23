@@ -68,7 +68,7 @@ import {
       icon: mobile,
     },
      {
-       title: "Content Creator",
+       title: "AI Researcher",
        icon: creator,
      },
    ];
