@@ -17,7 +17,7 @@ const Navbar = () => {
       onClick={() => { setActive("");
       window.scrollTo(0,0);}}>
         
-        <p className="text-white text-[18px] font-bold cursor-pointer flex flex-col">Ely Cheick Maaloum&nbsp;<span className='sm:block hidden'>|Fullstack developer</span></p>
+        <p className="text-white text-[18px] font-bold cursor-pointer flex flex-col"> Ely Cheick Maaloum&nbsp;<span className='sm:block hidden'>Full-Stack developer</span></p>
       </Link>
       <ul className="list-none hidden sm:flex flex-row gap-10">
         { navLinks.map((link) => (

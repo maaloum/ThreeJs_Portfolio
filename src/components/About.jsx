@@ -50,10 +50,7 @@ const About = () => {
       I am a full Stack Developer with a passion for building beautiful and user-friendly websites. I have a strong understanding of both back-end and front-end developement. I am excited to put my skills to use in a professional setting. I am a quick learner and a team player. I am confident that I can be a valuable asset to your company.
       </motion.p>
 
-      <a href={cvFile} download>
-    <button className="cv-btn bg-tertiary py-3 px-8 rounded-xl outline-none w-fit text-white font-bold shadow-md shadow-primary">Download CV</button>
-      </a>
-
+   
 
 
       <div className='mt-20 flex flex-wrap gap-10'>
