@@ -17,9 +17,9 @@ const Home = () => {
           <h1 className={`${styles.heroHeadText} text-white`}>
             Hi, I'm <span className='text-[#915EFF]'>Maaloum</span>
           </h1>
-          <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            I develop solid and user-friendly web applications <br className='sm:block hidden' />
-            I like to craft solid and scalable front-end and <br/> back-end projects.
+          <p className={`${styles.heroSubText} mt-3 text-white-100`}>
+            I develop solid and user-friendly web applications. <br className='sm:block hidden' />
+            I also like to craft solid and scalable front-end and <br/> back-end projects.
           </p>
         </div>
       </div>
