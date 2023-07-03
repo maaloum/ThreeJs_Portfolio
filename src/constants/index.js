@@ -24,19 +24,19 @@ import {
      threejs,
    } from "../assets";
 
-   import project1 from '../assets/project1.png'
-   import project2 from '../assets/project2.png'
-   import project3 from '../assets/project3.png'
-   import project4 from '../assets/project4.png'
-   import project5 from '../assets/project5.png'
-   import project6 from '../assets/project6.png'
+   import project1 from '../assets/sma.png'
+   import project2 from '../assets/smr.png'
+   import project3 from '../assets/kafi.jpg'
+   import project4 from '../assets/ecommerce.png'
+   import project5 from '../assets/country_info.png'
+   import project6 from '../assets/maaloum_blog.png'
    import microverse from '../assets/microverse.jpg'
    import content from '../assets/content.png'
    import ruby from '../assets/ruby.png'
    import rails from '../assets/ruby-on-rails.png'
-   import peter from '../assets/peter.jpg'
-   import osama from '../assets/osama.jpg'
-   import antony from '../assets/antony.jpg'
+   import ibrahim from '../assets/ibrahim.jpg'
+   import Jerome from '../assets/Jerome.jpg'
+   import Kennedy from '../assets/Kennedy.jpg'
 
    
    export const navLinks = [
@@ -180,156 +180,154 @@ import {
    const testimonials = [
      {
        testimonial:
-         "Soe's strong communication skills and collaborative attitude helped us to work effectively as a team.",
-       name: "Peter Chendi",
+         "Ely is a proactive team player who is always eager to learn and improve, and he would be a valuable asset to any development team...",
+       name: "Ibrahim Diaby Mohammed",
        designation: "FullStack Developer",
        company: "Microverse",
-       image: peter,
+       image: ibrahim,
      },
      {
        testimonial:
-         " She is highly organized and systematic in her approach to problem-solving, which always impresses me",
-       name: "Abdallag Antony",
+         "Ely Cheikh consistently exhibited unwavering dedication and a penchant for creativity throughout our association, infusing our projects with fresh and unconventional perspectives...",
+       name: "Kennedy Owusu",
        designation: "Fullstack Developer",
        company: "Microverse",
-       image: antony,
+       image: Kennedy,
      },
      {
        testimonial:
-         "she is a strong critical thinker as well and I believe that she'd be an asset to any team that's lucky enough to have her.",
-       name: "Osama Ashraf",
+         "It was an absolute pleasure working with Ely as he is super friendly and helpful whenever he can. He has great communication and soft skills and his code is always well structured...",
+       name: "Jerome Osman",
        designation: "Fullstack developer",
        company: "Microverse",
-       image: osama,
+       image: Jerome,
      },
    ];
    
    const projects = [
      {
-       name: "House Rent",
+       name: "SmartDev",
        description:
-         "Web-based platform that allows users to search, book, and manage House rentals from various providers, providing a convenient and efficient solution for accommodation needs.",
+         "It is a website for a company offering IT solutions and prestation services. The web site is showcase of what the company offers for its clients.",
        tags: [
          {
-           name: "react",
+           name: "React",
            color: "blue-text-gradient",
          },
          {
-           name: "ruby on rails",
+           name: "ReduxToolKit",
            color: "green-text-gradient",
          },
          {
-           name: "Postgresql",
+           name: "Bootstrap",
            color: "pink-text-gradient",
          },
        ],
        image: project1,
-       source_code_link: "https://github.com/soesandarwin2201/house-renting-frontend",
+       source_code_link: "https://smartdev.ai/",
      },
      {
-       name: "Meal Receipe",
+       name: "Smart MS SA",
        description:
-         "The app allows the user to see various kinds of meal categories with the functionalities of like and comment features. The MEALDB API has been used to provide meal category data for our Food App",
+         "This is a website for a company offering IT solutions and prestation services. The web site is ashowcase of what the  company offers for its clients.",
        tags: [
          {
-           name: "javascript",
+           name: "React",
            color: "blue-text-gradient",
          },
          {
-           name: "html",
+           name: "MUI",
            color: "green-text-gradient",
          },
          {
-           name: "css",
+           name: "Tailwind",
            color: "pink-text-gradient",
          },
        ],
        image: project2,
-       source_code_link: "https://github.com/KIsmoilov/JS-Capstone-Project",
+       source_code_link: "https://www.smartmssa.com/",
      },
      {
-       name: "conference landing page",
+       name: "KEFI Hotel Booking",
        description:
-         "A comprehensive conference page that allows users to check the contents of the conference and guest speakers .I used my own content for this and design inspired by Cindy Shin in Behance..",
+         "Captivating capstone project developed with React.js and Ruby on rails - This seamless app features a dynamic splash page, intuitive login/registration, comprehensive  dashboard, and user-friendly hotel management.",
        tags: [
          {
-           name: "html",
+           name: "Ruby/Rails",
            color: "blue-text-gradient",
          },
          {
-           name: "css",
+           name: "React",
            color: "green-text-gradient",
          },
          {
-           name: "javascript",
+           name: "Postgres",
            color: "pink-text-gradient",
          },
        ],
        image: project3,
-       source_code_link: "https://github.com/soesandarwin2201/HTML-CSS-JavaScript-capstone-project1",
+       source_code_link: "https://kefi-hotel-booking.netlify.app/",
      },
      {
-       name: "Bugs Gallery for children education",
+       name: "E-commerce",
        description:
-         "A comprehensive Bugs Gallery for children education that allows users to teach kids to learn about the bug species and its ability, natures, search for  popular species.",
+         "The application is built using the React library, which provides a fast and responsive user interface. The Bootstrap framework is used to create a modern and visually appealing design, while Skeleton provides a lightweight and responsive CSS boilerplate.",
        tags: [
          {
-           name: "react",
+           name: "React",
            color: "blue-text-gradient",
          },
          {
-           name: "redux",
+           name: "Redux",
            color: "green-text-gradient",
          },
          {
-           name: "api",
+           name: "Api",
            color: "pink-text-gradient",
          },
        ],
        image: project4,
-       source_code_link: "https://github.com/soesandarwin2201/react_capstone_project",
+       source_code_link: "https://641f963ae0999f35015dbab1--glittering-elf-15ef96.netlify.app/",
      },
      {
-       name: "Portfolio Landing Page",
-       description:
-         "A comprehensive landing page for  developers to show off the skills. that allows users to see the projects, about the author, and see the experience, and can contact the author to hire.",
+       name: "Country Info",
+       description: "Countries Infos is a React and Redux SPA application that displays interesting information about various countries in the world. It fetches all the information that it displays using API request to a server.",
        tags: [
          {
-           name: "javascript",
+           name: "React",
            color: "blue-text-gradient",
          },
          {
-           name: "group project",
+           name: "ReduxToolKit",
            color: "green-text-gradient",
          },
          {
-           name: "css",
+           name: "Bootstrap",
            color: "pink-text-gradient",
          },
        ],
        image: project5,
-       source_code_link: "https://github.com/soesandarwin2201/react_capstone_project",
+       source_code_link: "https://6350036769ae9f160842f31c--musical-kitsune-a1d0c0.netlify.app/",
      },
      {
-       name: "Book note",
+       name: "Maaloum Blog",
        description:
-         "A comprehensive book store app that allows users to add , delete , and make a list to store their booklists.",
-       tags: [
+       "Maaloum Blog is a React SPA application that allows users to view and interact with blog posts and to add new posts. It fetches all the information that it displays using a local API creates with a JSON server.",       tags: [
          {
-           name: "ruby",
+           name: "React",
            color: "blue-text-gradient",
          },
          {
-           name: "ruby on rails",
+           name: "JSON Server",
            color: "green-text-gradient",
          },
          {
-           name: "postgresq;",
+           name: "API;",
            color: "pink-text-gradient",
          },
        ],
        image: project6,
-       source_code_link: "https://github.com/soesandarwin2201/awesome-books",
+       source_code_link: "https://main--super-paletas-b4ba8a.netlify.app/",
      },
    ];
    
