@@ -46,7 +46,7 @@ Read a random math-related quote.
 * React three drei
 * Three JS
 * Tailwind css
-* Maath 
+* Math 
 * Framer-motion
 * React-vertical-timeline-component/style.min.css
 
