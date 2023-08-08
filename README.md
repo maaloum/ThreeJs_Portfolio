@@ -46,7 +46,7 @@ Read a random math-related quote.
 * React three drei
 * Three JS
 * Tailwind css
-* Maath 
+* Math 
 * Framer-motion
 * React-vertical-timeline-component/style.min.css
 
@@ -107,7 +107,7 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-```cd https://github.com/soesandarwin2201/protfolio_with_three.js```
+```cd https://github.com/maaloum/ThreeJs_Portfolio```
 
 ### Install
 
@@ -156,8 +156,8 @@ You can deploy this project using:
 
 👤 Soe Sandar Win
 
-- GitHub: [@soesandarwin2201](https://github.com/soesandarwin2201)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/soe-sandar-win-softwareengineer/)
+- GitHub: [@Maaloum](https://github.com/maaloum)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/maaloum/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -168,7 +168,7 @@ You can deploy this project using:
 ## Contributing
 
 Contributions, issues, and feature requests are welcome!
-Feel free to check the [issues page](https://github.com/Abdessittir/math-magicians/issues).
+Feel free to check the [issues page](https://github.com/maaloum/ThreeJs_Portfolio/issues).
 
 ## Show your support
 Give a ⭐️ if you like this project!
