@@ -6,6 +6,14 @@ import { styles } from "../styles";
 import { EarthCanvas } from "./canvas";
 import { SectionWrapper } from "../hoc";
 import { slideIn } from "../utils/motion";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import {
+  faYoutube,
+  faFacebook,
+  faTwitter,
+  faInstagram,
+  faLinkedin,
+} from "@fortawesome/free-brands-svg-icons";
 
 const Contact = () => {
   const formRef = useRef();
@@ -129,6 +137,25 @@ const Contact = () => {
       >
         <EarthCanvas />
       </motion.div>
+
+    <div className="social-container">
+      <a href="https://www.youtube.com/channel/UCcCnPiqCp0w_YfUPQYech2w"
+        className="youtube social me-1">
+        <FontAwesomeIcon icon={faYoutube} size="2x" />
+      </a>
+      <a href="https://web.facebook.com/elycheikh.maaloum/"
+        className="facebook social mt-4 ms-2 me-4 ">
+        <FontAwesomeIcon icon={faFacebook} size="2x" />
+      </a>
+      <a href="https://www.instagram.com/maaloum"
+        className="instagram social">
+        <FontAwesomeIcon icon={faInstagram} size="2x" />
+      </a>
+      <a href="https://www.linkedin.com/in/maaloum/"
+      className="linkDin ms-3 ">
+      <FontAwesomeIcon icon={faLinkedin} size="2x" />
+    </a>
+</div>
     </div>
   );
 };

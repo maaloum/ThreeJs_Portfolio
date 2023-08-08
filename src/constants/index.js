@@ -225,6 +225,8 @@ import {
        ],
        image: project1,
        source_code_link: "https://smartdev.ai/",
+       readme: "https://smartdev.ai/",
+       seelive: "https://smartdev.ai/",
      },
      {
        name: "Smart MS SA",
@@ -246,6 +248,8 @@ import {
        ],
        image: project2,
        source_code_link: "https://www.smartmssa.com/",
+       readme: "https://www.smartmssa.com/",
+       seelive: "https://www.smartmssa.com/",
      },
      {
        name: "KEFI Hotel Booking",
@@ -266,7 +270,9 @@ import {
          },
        ],
        image: project3,
-       source_code_link: "https://kefi-hotel-booking.netlify.app/",
+       source_code_link: "https://github.com/felixDev22/Final-capstone-backend",
+       readme: "https://github.com/felixDev22/Final-capstone-backend",
+       seelive: "https://kefi-hotel-booking.netlify.app/",
      },
      {
        name: "E-commerce",
@@ -288,6 +294,9 @@ import {
        ],
        image: project4,
        source_code_link: "https://641f963ae0999f35015dbab1--glittering-elf-15ef96.netlify.app/",
+
+       readme: "https://kefi-hotel-booking.netlify.app/",
+       seelive: "https://641f963ae0999f35015dbab1--glittering-elf-15ef96.netlify.app/",
      },
      {
        name: "Country Info",
@@ -307,7 +316,9 @@ import {
          },
        ],
        image: project5,
-       source_code_link: "https://6350036769ae9f160842f31c--musical-kitsune-a1d0c0.netlify.app/",
+       source_code_link: "https://github.com/maaloum/ecommerceApp-React",
+       readme: "https://github.com/maaloum/ecommerceApp-React/readme.md",
+       seelive: "https://6350036769ae9f160842f31c--musical-kitsune-a1d0c0.netlify.app/",
      },
      {
        name: "Maaloum Blog",
@@ -327,7 +338,9 @@ import {
          },
        ],
        image: project6,
-       source_code_link: "https://main--super-paletas-b4ba8a.netlify.app/",
+       source_code_link: "https://github.com/maaloum/Blog-with-react",
+       readme: "https://github.com/maaloum/Blog-with-react/readme.md",
+       seelive: "https://main--super-paletas-b4ba8a.netlify.app/",
      },
    ];
    
